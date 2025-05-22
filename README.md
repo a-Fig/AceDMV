@@ -54,7 +54,7 @@ AceDMV is more than just a practice quiz—it's your personal AI tutor. Designed
 
 ## 🛠️ Built With
 - **Python** – Core backend logic.
-- **Streamlit** – Web app interface.
+- **Javescript/css** – Web app interface.
 - **Google Cloud AI:**
   - **Gemini Models** – Powering the AI Driving Coach.
   - **Text-to-Speech API** – For voice functionality.
