@@ -53,7 +53,7 @@ AceDMV is more than just a practice quiz—it's your personal AI tutor. Designed
 ---
 
 ## 🛠️ Built With
-- **Python** – Core backend logic.
+- **Python/Fastapi** – Core backend logic.
 - **Javescript/css** – Web app interface.
 - **Google Cloud AI:**
   - **Gemini Models** – Powering the AI Driving Coach.
