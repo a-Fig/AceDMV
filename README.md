@@ -38,7 +38,7 @@ AceDMV is more than just a practice quiz—it's your personal AI tutor. Designed
 - **AI Driving Coach:**
   - Explains correct answers and traffic laws when you’re wrong.
   - Provides encouragement and optional insights when you’re right.
-- **Text-to-Speech (Coming Soon):** Hear questions and explanations read aloud.
+- **Text-to-Speech:** Listen to explanations in real time.
 - **Safety First:** Reinforces real-world driving knowledge.
 - **Modern UI:** Clean and intuitive design for a better learning experience.
 
@@ -47,7 +47,7 @@ AceDMV is more than just a practice quiz—it's your personal AI tutor. Designed
 ## 🎯 Who Is AceDMV For?
 - **New Drivers:** Get a strong, confident start.
 - **Test Takers:** Crush the DMV written test.
-- **Experienced Drivers:** Refresh your knowledge.
+- **Experienced Drivers:** Refresh your knowledge, or ask an in.
 - **Road Safety Advocates:** Help build safer communities.
 
 ---
@@ -63,18 +63,17 @@ AceDMV is more than just a practice quiz—it's your personal AI tutor. Designed
 ---
 
 ## 🏁 Getting Started
-AceDMV is currently under active development. Stay tuned for the full launch.
+AceDMV is currently under active development. Our demo website is live.
 
-**Website:** _[Link to Your AceDMV Website Here]_ (Coming Soon!)
+**Website:** _[[AceDMV](https://aieducator-toth.onrender.com/)]_
 
 ---
 
 ## 💻 Usage
 1. Visit the AceDMV website.
-2. Start a quiz session.
 3. Answer multiple-choice or short-answer questions.
 4. Get immediate feedback with AI explanations.
-5. Use TTS to hear questions and feedback. *(Coming Soon)*
+5. Use TTS to listen to feedback.
 6. Track your progress and practice until you're confident.
 
 ---
