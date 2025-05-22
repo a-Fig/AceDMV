@@ -3,7 +3,7 @@ Your AI-Powered California DMV Test Prep 🚗💡
 
 Master the California DMV written test and become a smarter, safer driver with AceDMV!
 
-**Website:** _[[Link to Your AceDMV Website Here](https://aieducator-toth.onrender.com/)]_
+**Website:** _[[AceDMV](https://aieducator-toth.onrender.com/)]_
 
 ---
 
